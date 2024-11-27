@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "prod02",
+      "productName": "Pen",
+      "description": "Ballpoint pen, red ink , ",
+      "category": "stationary",
+      "price": 10,
+      "supplier": "Writer's Hub",
+      "stock": true,
+      "quantity": 5000,
+      "inStock": true
+    },
+    {
+      "id": "prod03",
+      "productName": "Pencil",
+      "description": "HB pencil",
+      "category": "stationary",
+      "price": 5,
+      "quantity": 2000,
+      "supplier": "Graphite Makers",
+      "inStock": true
+    },
+    {
+      "id": "prod04",
+      "productName": "Eraser",
+      "description": "Rubber eraser, white",
+      "category": "stationary",
+      "price": 3,
+      "quantity": 1500,
+      "supplier": "Erase-All Inc.",
+      "inStock": true
+    },
+    {
+      "id": "prod05",
+      "productName": "Sharpener",
+      "description": "Metal blade sharpener",
+      "category": "stationary",
+      "price": 7,
+      "quantity": 1200,
+      "supplier": "Edge Sharp Tools",
+      "inStock": true
+    },
+    {
+      "id": "prod06",
+      "productName": "Highlighter",
+      "description": "Pack of 5 assorted colors",
+      "category": "stationary",
+      "price": 50,
+      "quantity": 800,
+      "supplier": "Color Pop Supplies",
+      "inStock": true
+    },
+    {
+      "id": "prod07",
+      "productName": "Glue Stick",
+      "description": "Non-toxic, 20g",
+      "category": "stationary",
+      "price": 25,
+      "quantity": 600,
+      "supplier": "Sticky Solutions",
+      "inStock": true
+    },
+    {
+      "id": "prod08",
+      "productName": "Stapler",
+      "description": "Mini stapler with staples",
+      "category": "stationary",
+      "price": 80,
+      "quantity": 400,
+      "supplier": "PinPoint Supplies",
+      "inStock": true
+    },
+    {
+      "id": "prod09",
+      "productName": "Ruler",
+      "description": "30cm transparent ruler",
+      "category": "stationary",
+      "price": 15,
+      "quantity": 1000,
+      "supplier": "Measure Pro",
+      "inStock": true
+    },
+    {
+      "id": "prod10",
+      "productName": "Marker",
+      "description": "Black permanent marker",
+      "category": "stationary",
+      "price": 20,
+      "quantity": 700,
+      "supplier": "MarkIt Inc.",
+      "inStock": true
+    },
+    {
+      "id": "prod01",
+      "productName": "bottle",
+      "description": "4 litter container",
+      "category": "steel",
+      "price": "500",
+      "supplier": "milton",
+      "stock": true
+    }
+  ]
+}
